@@ -1,25 +1,35 @@
-<h1 align="center">Hi, I'm Niveditha 👋</h1>
+<h1 align="center">Hi 👋, I'm Niveditha</h1>
 
-<h3 align="center">Computer Science Student</h3>
-
-<p align="center">
-AI • Machine Learning • Data Science • Full-Stack Development • Open Source
-</p>
+<h3 align="center">
+Computer Science Student • AI • Machine Learning • Data Science • Web Development
+</h3>
 
 <p align="center">
-Building real-world projects, solving problems, and learning every day.
+Building impactful software while continuously learning, solving problems, and contributing to open source.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science student passionate about building impactful software and continuously expanding my knowledge in technology.
+I'm a Computer Science student passionate about Artificial Intelligence, Machine Learning, Data Science, and Web Development.
 
-- 🤖 Exploring Generative AI, Agentic AI, Machine Learning & Data Science
-- 💻 Building projects to strengthen my development skills
-- 🌱 Contributing to Open Source and learning from the developer community
-- 🚀 Always excited to learn new technologies and solve real-world problems
+I enjoy building real-world projects, exploring emerging technologies, contributing to open source, and continuously improving my problem-solving skills.
+
+- 🌱 Currently learning **Generative AI, Agentic AI, Machine Learning & Data Science**
+- 💻 Building AI & Full-Stack Projects
+- 🤝 Open Source Contributor
+- 🚀 Always exploring new technologies
+- 🎯 Aspiring Machine Learning Engineer and Data Scientist
+
+---
+
+## 💻 Coding Journey
+
+- 🧩 Solved **330+ DSA Problems** across LeetCode, CodeChef, Codeforces & GeeksforGeeks
+- 📚 Regularly practicing Data Structures & Algorithms
+- ⚡ Improving problem-solving through competitive programming
+- 🚀 Exploring System Design & Software Engineering
 
 ---
 
@@ -28,29 +38,89 @@ I'm a Computer Science student passionate about building impactful software and 
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,mysql" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,mysql" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs" />
+<img src="https://skillicons.dev/icons?i=nodejs,bootstrap,flask,fastapi" />
 </p>
 
-### 📚 Computer Science Fundamentals
+### 📚 Libraries & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-Basics-orange?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-### ⚙️ Libraries & Tools
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,flask,numpy,pandas" />
-  <img src="https://img.shields.io/badge/JavaFX-FF6F00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge"/>
+</p>
+
+### 📖 Computer Science Fundamentals
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- System Design Basics
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 MedAgent-X
+
+Enterprise-grade RAG architecture for clinical research using FastAPI, Gemini AI, vector embeddings, PDF parsing, and agentic workflows.
+
+---
+
+### 🎂 AgeCraft
+
+A modern age calculator featuring responsive UI, statistics dashboard, dark mode, and interactive visualizations.
+
+---
+
+### 🤝 CollabX
+
+Strategic Partnership Management System developed as part of a Software Engineering project.
+
+---
+
+### 🌐 Portfolio Website
+
+Coming Soon...
+
+---
+
+## 🏆 Achievements
+
+- 🏅 Winner – Hack IIITV
+- 🌍 Open Source Contributor – Social Summer of Code (SSOC)
+- 💻 Solved 300+ DSA Problems
+- 🚀 Built AI-powered and Full-Stack Projects
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- ☁️ Cloud Computing
+- 🏗️ System Design
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
@@ -58,25 +128,38 @@ I'm a Computer Science student passionate about building impactful software and 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nivedithabinu&theme=github-dark-blue&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/niveditha-binu-ab8642344/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:nivedithabinu2007@gmail.com">
+<a href="mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
 </p>
 
 ---
-
 <p align="center">
-⭐ Thanks for visiting my profile!
+⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐
 </p>
