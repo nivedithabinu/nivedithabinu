@@ -73,18 +73,12 @@ I enjoy building real-world projects, exploring emerging technologies, contribut
 ### 🩺 MedAgent-X
 
 Enterprise-grade RAG architecture for clinical research using FastAPI, Gemini AI, vector embeddings, PDF parsing, and agentic workflows.
-
+Coming Soon...
 ---
 
 ### 🎂 AgeCraft
 
 A modern age calculator featuring responsive UI, statistics dashboard, dark mode, and interactive visualizations.
-
----
-
-### 🤝 CollabX
-
-Strategic Partnership Management System developed as part of a Software Engineering project.
 
 ---
 
@@ -98,18 +92,8 @@ Coming Soon...
 
 - 🏅 Winner – Hack IIITV
 - 🌍 Open Source Contributor – Social Summer of Code (SSOC)
-- 💻 Solved 300+ DSA Problems
+- 💻 Solved 330+ DSA Problems
 - 🚀 Built AI-powered and Full-Stack Projects
-
----
-
-## 🌱 Currently Exploring
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Science
-- ☁️ Cloud Computing
-- 🏗️ System Design
 
 ---
 
