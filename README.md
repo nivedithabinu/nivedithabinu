@@ -101,9 +101,9 @@ Coming Soon...
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nivedithabinu&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithabinu&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -113,7 +113,7 @@ Coming Soon...
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=nivedithabinu&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -123,7 +123,7 @@ Coming Soon...
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nivedithabinu&theme=github-compact"/>
 
 </p>
 
