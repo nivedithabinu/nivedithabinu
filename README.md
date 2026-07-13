@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%20There,%20I'm%20Niveditha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%20,%20I'm%20Niveditha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=650&lines=Building+AI+%26+Full-Stack+Applications;Open+Source+Contributor;330%2B+DSA+Problems+Solved;Always+Learning+Something+New+🚀" />
@@ -93,9 +93,9 @@ Designed enterprise-inspired financial workflows including credit risk monitorin
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nivedithabinu&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nivedithabinu&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithabinu&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithabinu&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
