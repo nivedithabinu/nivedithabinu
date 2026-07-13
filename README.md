@@ -18,7 +18,7 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 
 - 🌱 Currently learning **Generative AI, Agentic AI, Machine Learning & Data Science**
 - 💻 Building AI & Full-Stack Projects
-- 🤝 Open Source Contributor
+- 🤝 Open Source Contributor @ Social Summer of Code
 - ⛓️ **Season 17 Scholar @ SheFi**
 - 🚀 Always exploring new technologies
 - 🎯 Aspiring Machine Learning Engineer & Data Scientist
@@ -48,12 +48,12 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 
 ### 🌐 Web Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,bootstrap,flask,fastapi,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,bootstrap,flask,fastapi,expressjs&theme=dark" />
 </p>
 
 ### 📚 Libraries & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bokeh,antigravity&theme=dark" />
 </p>
 
 <p align="center">
@@ -169,9 +169,6 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 </details>
 
 <br>
-
-> 🎓 Skills sourced from: **Getting Started with Generative AI**, **Technology Software Development – Citi Job Simulation**, **The Complete Python Developer**, **Introduction to Data Science**, **Responsive Web Design**, and coursework at **Indian Institute of Information Technology Vadodara**.
-
 ---
 
 ## 🚀 Featured Projects
@@ -187,9 +184,11 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 
 </div>
 
-**🩺 MedAgent-X** — Enterprise-grade RAG architecture for clinical research using FastAPI, Gemini AI, vector embeddings, PDF parsing, and agentic workflows. *(Coming Soon)*
+**💼 Citi Technology Software Development Job Simulation** - Designed enterprise-inspired financial workflows including credit risk monitoring and real-time financial data integration.
 
-**🎂 AgeCraft** — A modern age calculator featuring a terminal-inspired dark UI, statistics dashboard, and interactive visualizations. [🔗 Live Demo](#)
+**🩺 MedAgent-X** — Enterprise-grade RAG architecture for clinical research using FastAPI, Gemini AI, vector embeddings, PDF parsing, and agentic workflows on Google's Antigravity. *(Coming Soon)*
+
+**🎂 AgeCraft** — A modern life anaylsis dashboard featuring a terminal-inspired dark UI, statistics, and interactive visualizations.
 
 **🌐 Portfolio Website** — Personal portfolio showcasing projects and skills. *(Coming Soon)*
 
@@ -226,9 +225,6 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 <div align="center">
 <img src="https://raw.githubusercontent.com/nivedithabinu/nivedithabinu/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
-
-> 💡 This animates automatically once you add the **snake-generator GitHub Action** to your profile repo — instructions below.
-
 ---
 
 ## 🌐 Connect With Me
@@ -237,7 +233,7 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 <a href="https://www.linkedin.com/in/niveditha-binu-ab8642344/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:nivedithabinu2007@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
