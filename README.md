@@ -172,17 +172,6 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nivedithabinu&repo=MedAgent-X&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nivedithabinu&repo=AgeCraft&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
-
 **💼 Citi Technology Software Development Job Simulation** - Designed enterprise-inspired financial workflows including credit risk monitoring and real-time financial data integration.
 
 **🩺 MedAgent-X** — Enterprise-grade RAG architecture for clinical research using FastAPI, Gemini AI, vector embeddings, PDF parsing, and agentic workflows on Google's Antigravity. *(Coming Soon)*
