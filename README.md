@@ -49,7 +49,7 @@ I enjoy building impactful software, solving challenging problems, contributing 
 ### Libraries & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,matlab" />
 </p>
 
 <p align="center">
