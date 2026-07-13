@@ -43,7 +43,7 @@ I enjoy building impactful software, solving challenging problems, contributing 
 ### Frameworks & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,bootstrap" />
+<img src="https://skillicons.dev/icons?i=expressjs,nodejs,fastapi,flask,bootstrap" />
 </p>
 
 ### Libraries & Tools
