@@ -10,8 +10,6 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="coding gif"/>
-
 ## 👩‍💻 About Me
 
 I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Data Science, and Web Development**. I love building real-world projects, exploring emerging technologies, contributing to open source, and continuously sharpening my problem-solving skills.
