@@ -169,6 +169,7 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 </details>
 
 <br>
+
 ---
 
 ## 🚀 Featured Projects
@@ -188,7 +189,7 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 
 **🩺 MedAgent-X** — Enterprise-grade RAG architecture for clinical research using FastAPI, Gemini AI, vector embeddings, PDF parsing, and agentic workflows on Google's Antigravity. *(Coming Soon)*
 
-**🎂 AgeCraft** — A modern life anaylsis dashboard featuring a terminal-inspired dark UI, statistics, and interactive visualizations.
+**🎂 AgeCraft** — A modern life analysis dashboard featuring a terminal-inspired dark UI, statistics, and interactive visualizations.
 
 **🌐 Portfolio Website** — Personal portfolio showcasing projects and skills. *(Coming Soon)*
 
@@ -225,6 +226,7 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 <div align="center">
 <img src="https://raw.githubusercontent.com/nivedithabinu/nivedithabinu/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
+
 ---
 
 ## 🌐 Connect With Me
