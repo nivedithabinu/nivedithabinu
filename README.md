@@ -185,9 +185,15 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 
 </div>
 
+### 💼 Citi Technology Software Development (Job Simulation)
+*Developed and simulated enterprise-grade fintech workflows:*
+- Engineered a **Credit Risk & Market Monitoring System** to analyze live financial data trends.
+- Integrated **Yahoo Finance API** to handle real-time enterprise data streams.
+- Applied system design principles to ensure scalable and reliable financial data processing.
+
 **🩺 MedAgent-X** — Enterprise-grade RAG architecture for clinical research using FastAPI, Gemini AI, vector embeddings, PDF parsing, and agentic workflows. *(Coming Soon)*
 
-**🎂 AgeCraft** — A modern age calculator featuring a terminal-inspired dark UI, statistics dashboard, and interactive visualizations. [🔗 Live Demo](#)
+**🎂 AgeCraft** — A modern age calculator featuring a terminal-inspired dark UI, statistics dashboard, and interactive visualizations.
 
 **🌐 Portfolio Website** — Personal portfolio showcasing projects and skills. *(Coming Soon)*
 
