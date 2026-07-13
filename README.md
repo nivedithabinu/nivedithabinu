@@ -208,14 +208,6 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/nivedithabinu/nivedithabinu/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
