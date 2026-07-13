@@ -10,7 +10,7 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="coding gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/[coding.gif](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)" alt="coding gif"/>
 
 ## 👩‍💻 About Me
 
