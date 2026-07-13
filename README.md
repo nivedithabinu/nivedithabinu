@@ -1,253 +1,138 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c896&height=220&section=header&text=Hi%20There,%20I'm%20Niveditha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%7C%20ML%20%7C%20Data%20Science%20%7C%20Web%20Dev&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%20There,%20I'm%20Niveditha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C896&center=true&vCenter=true&width=650&lines=Building+AI+%26+Full-Stack+Projects+%F0%9F%9A%80;Aspiring+Machine+Learning+Engineer+%F0%9F%A7%A0;330%2B+DSA+Problems+Solved+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=650&lines=Building+AI+%26+Full-Stack+Applications;Open+Source+Contributor;330%2B+DSA+Problems+Solved;Always+Learning+Something+New+🚀" />
 </a>
 
 </div>
 
-<br/>
+---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="coding gif"/>
+# 👩‍💻 About Me
 
-## 👩‍💻 About Me
+I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Data Science, and Web Development**.
 
-I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Data Science, and Web Development**. I love building real-world projects, exploring emerging technologies, contributing to open source, and continuously sharpening my problem-solving skills.
+I enjoy building impactful software, solving challenging problems, contributing to open source, and continuously learning new technologies.
 
-- 🌱 Currently learning **Generative AI, Agentic AI, Machine Learning & Data Science**
-- 💻 Building AI & Full-Stack Projects
-- 🤝 Open Source Contributor @ Social Summer of Code 2026
-- ⛓️ **Season 17 Scholar @ SheFi**
-- 🚀 Always exploring new technologies
-- 🎯 Aspiring Machine Learning Engineer & Data Scientist
-
-<br clear="right"/>
+- 🤖 Exploring AI, Machine Learning & Generative AI
+- 💻 Building Full-Stack & AI-powered applications
+- 🌱 Open Source Contributor
+- 🧩 Solved **330+ DSA problems**
+- 🎯 Interested in building technology that creates real-world impact
 
 ---
 
-## 🧩 Coding Journey
+# 💻 Coding Journey
 
-<div align="center">
-
-| 🧩 Problems Solved | 📚 Practice | ⚡ Focus | 🚀 Exploring |
+| 🧩 DSA | 🌍 Open Source | 🚀 Projects | 📚 Learning |
 |:---:|:---:|:---:|:---:|
-| **330+** across LeetCode, CodeChef, Codeforces & GfG | Regular DSA practice | Competitive programming | System Design & Software Engineering |
-
-</div>
+| **330+ Problems Solved** | SSOC Contributor | AI & Full-Stack Projects | AI • ML • Data Science |
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,mysql" />
 </p>
 
-### 🌐 Web Development
+### Frameworks & Technologies
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,bootstrap,flask,fastapi,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,bootstrap" />
 </p>
 
-### 📚 Libraries & Tools
+### Libraries & Tools
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XGBoost-EA5B0C?style=for-the-badge"/>
-</p>
-
-### 📖 Computer Science Fundamentals
-<p align="center">
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/OOP-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/DBMS-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/System%20Design-00C896?style=flat-square"/>
 </p>
 
 ---
 
-## 🧠 Additional Skills
+# 🚀 Featured Projects
 
-<details>
-<summary><b>🤖 Generative AI & Machine Learning</b></summary>
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/-Generative_AI-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Large_Language_Models-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/-AI_Prompting-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/-AI_Ethics-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/-IBM_Granite-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/-IBM_AI_Risk_Atlas-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Risk_Management-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Machine_Learning-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Basics_of_ML-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Scikit--Learn-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/-K--Nearest_Neighbors-6C63FF?style=flat-square"/>
-</p>
-</details>
+### 🩺 MedAgent-X
 
-<details>
-<summary><b>🐍 Python Development</b></summary>
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/-Functional_Programming-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Lambdas-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Decorators-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Generators-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Error_Handling-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Modules-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/-File_Handling-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Regular_Expressions-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Testing-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Debugging-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Scripting-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Image_Processing-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Web_Scraping-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Beautiful_Soup-00C896?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Selenium-00C896?style=flat-square"/>
-</p>
-</details>
-
-<details>
-<summary><b>📊 Data Science</b></summary>
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/-Data_Science_Fundamentals-F5A623?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Data_Architecture-F5A623?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Data_Visualization-F5A623?style=flat-square"/>
-<img src="https://img.shields.io/badge/-NumPy-F5A623?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Pandas-F5A623?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Matplotlib-F5A623?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Bokeh-F5A623?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Jupyter-F5A623?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Kaggle-F5A623?style=flat-square"/>
-</p>
-</details>
-
-<details>
-<summary><b>🌐 Web Development</b></summary>
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square"/>
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Responsive_Web_Design-1572B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-CSS_Flexbox-1572B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-CSS_Grid_Layout-1572B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Accessibility-1572B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square"/>
-</p>
-</details>
-
-<details>
-<summary><b>⚙️ Systems, APIs & Tools</b></summary>
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/-Object--Oriented_Programming-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Systems_Design-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-State_Diagrams-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Data_Structures_%26_Algorithms-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-APIs-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Yahoo_Finance_API-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-SLF4J-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Developer_Environments-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Credit_Risk_Management-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Feature_Proposal-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-C-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-C%2B%2B-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Java-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-JavaFX-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Git-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-GitHub-3178C6?style=flat-square"/>
-</p>
-</details>
-
-<br>
+Enterprise-grade Retrieval-Augmented Generation (RAG) system for clinical research built using FastAPI, Gemini AI, vector embeddings, PDF processing, and agentic workflows. (Coming soon)
 
 ---
 
-## 🚀 Featured Projects
+### 🎂 AgeCraft
+
+Modern life statistics dashboard featuring a responsive UI, statistics dashboard, and interactive visualizations.
+
+---
+
+### 💼 Citi Technology Software Development Job Simulation
+
+Designed enterprise-inspired financial workflows including credit risk monitoring and real-time financial data integration.
+
+---
+
+# 🏆 Achievements
+
+- 🏅 Winner - Hack IIITV '25
+- 🌍 Open Source Contributor @ Social Summer of Code
+- 💻 Solved **330+ DSA Problems**
+- ⛓️ Season 17 Scholar @ SheFi
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nivedithabinu&repo=MedAgent-X&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nivedithabinu&repo=AgeCraft&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nivedithabinu&show_icons=true&theme=github_dark&hide_border=true"/>
 
-</div>
-
-### 💼 Citi Technology Software Development (Job Simulation)
-*Developed and simulated enterprise-grade fintech workflows:*
-- Engineered a **Credit Risk & Market Monitoring System** to analyze live financial data trends.
-- Integrated **Yahoo Finance API** to handle real-time enterprise data streams.
-- Applied system design principles to ensure scalable and reliable financial data processing.
-
-**🩺 MedAgent-X** — Enterprise-grade RAG architecture for clinical research using FastAPI, Gemini AI, vector embeddings, PDF parsing, and agentic workflows. *(Coming Soon)*
-
-**🎂 AgeCraft** — A modern age calculator featuring a terminal-inspired dark UI, statistics dashboard, and interactive visualizations.
-
-**🌐 Portfolio Website** — Personal portfolio showcasing projects and skills. *(Coming Soon)*
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://img.shields.io/badge/🏅_Winner-Hack_IIITV-gold?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌍_Open_Source-SSOC_Contributor-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻_DSA-330%2B_Solved-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⛓️_SheFi-Season_17_Scholar-9b5de5?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nivedithabinu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00C896&icon_color=00C896"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithabinu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00C896"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nivedithabinu&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00C896&fire=00C896"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nivedithabinu&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C896&line=00C896&point=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithabinu&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🔥 GitHub Streak
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/nivedithabinu/nivedithabinu/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+<img src="https://streak-stats.demolab.com?user=nivedithabinu&theme=github-dark-blue&hide_border=true"/>
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/niveditha-binu-ab8642344/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="mailto:youremail@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+
+<a href="mailto:nivedithabinu2007@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
 </p>
 
+---
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=nivedithabinu&style=for-the-badge&color=00c896" alt="profile views"/>
+
+![](https://komarev.com/ghpvc/?username=nivedithabinu&style=for-the-badge&color=00c896)
+
+⭐ **Thanks for visiting my profile!**
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,100:0f2027&height=100&section=footer"/>
-
-<p align="center">⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
