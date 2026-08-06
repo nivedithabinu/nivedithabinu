@@ -9,24 +9,26 @@
 ---
 
 # 👩‍💻 About Me
-🎓 **B.Tech Computer Science Student** @ IIIT Vadodara
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Science & Software Engineering**
-🌐 Building **AI-powered** and **Full-Stack** applications
-💡 Exploring **Agentic AI**, **RAG Systems**, and **Open Source**
+
+- 🎓 **B.Tech Computer Science Student** @ IIIT Vadodara
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Science & Software Engineering**
+- 🌐 Building **AI-powered** and **Full-Stack** applications
+- 💡 Exploring **Agentic AI**, **RAG Systems**, and **Open Source**
 
 ---
+
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
 | 🩺 **MedAgent-X** | Enterprise-grade RAG platform for clinical research with AI-powered document understanding | FastAPI • Gemini • RAG • Python |
-| 🏠 **Smart Home Surveillance Controller** | FPGA-based surveillance system using Verilog HDL with FSM, LEDs, buzzer and 7-segment display | Verilog • FPGA • Vivado |
-| 🎂 **AgeCraft** | Interactive age analysis dashboard with terminal-inspired UI | HTML • CSS • JavaScript |
+| 🏠 **Smart Home Surveillance Controller** | FPGA-based surveillance system using Verilog HDL with FSM, LEDs, buzzer & seven-segment display | Verilog • FPGA • Vivado |
+| 🎂 **AgeCraft** | Interactive age analysis dashboard with a modern terminal-inspired UI | HTML • CSS • JavaScript |
 | 💼 **Citi Technology Software Development Job Simulation** | Enterprise-inspired software engineering and financial workflow simulation | Java • APIs |
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 
@@ -43,12 +45,10 @@
 ### 🤖 AI / Data Science
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-EA5B0C?style=for-the-badge"/>
-
 </p>
 
 ### 🧰 Tools
@@ -61,22 +61,22 @@
 
 # 🏆 Achievements
 
-🏅 Hack IIITV 2025 Winner - Won under the FY special in Web/App Development category in April 2025
-🌍 Open Source Contributor @ Social Summer of Code - Merged 4 PRs with a score of 144 points, securing a rank of 166 by fixing frontend, backend, UI/UX responsiveness through GitHub pull requests
-💻 Solved **350+ DSA Problems** across LeetCode, CodeChef, Codeforces & GeeksforGeeks
-✨ Achieved the **50 Days Badge 2025** and **50 Days Badge 2026** respectively on LeetCode
-🎓 Season 17 Scholar @ SheFi, focusing on  blockchain, decentralized finance, cryptocurrency, and the Web3 ecosystem.
+- 🏅 **Hack IIITV 2025 Winner** – Winner in the FY Special Web/App Development category.
+- 🌍 **Open Source Contributor @Social Summer of Code** – Merged **4 Pull Requests**, scored **144 points**, and secured **Rank 166**.
+- 💻 Solved **350+ DSA Problems** across LeetCode, CodeChef, Codeforces & GeeksforGeeks.
+- ✨ Earned the **LeetCode 50 Days Badge** in **2025** and **2026**.
+- 🎓 **SheFi Season 17 Scholar**, exploring blockchain, decentralized finance (DeFi), cryptocurrency, and the Web3 ecosystem.
 
 ---
 
 # 📚 Currently Learning
 
-- Machine Learning
-- Generative AI
-- Agentic AI
-- Data Science
-- System Design
-- Competitive Programming
+- 🤖 Machine Learning
+- 🧠 Generative AI
+- ⚡ Agentic AI
+- 📊 Data Science
+- 🏗️ System Design
+- 💻 Competitive Programming
 
 ---
 
@@ -105,14 +105,18 @@
 </a>
 
 </p>
+
 ---
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=nivedithabinu&style=for-the-badge&color=00C896)
+
+<img src="https://komarev.com/ghpvc/?username=nivedithabinu&style=for-the-badge&color=00C896"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:0F2027&height=120&section=footer"/>
 
 <div align="center">
+
 ### ⭐ Thanks for visiting my GitHub profile!
 </div>
