@@ -86,11 +86,10 @@ Forage-based enterprise simulation - modeled credit risk with **XGBoost**, built
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=beautifulsoup&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=jupyter&theme=dark"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 **Frameworks & Backend**
