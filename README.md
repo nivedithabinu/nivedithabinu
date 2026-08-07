@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C896&height=240&section=header&text=Hi%20👋,%20I'm%20Niveditha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20CS%20@%20IIIT%20Vadodara&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C896&height=240&section=header&text=Hi%20👋,%20I'm%20Niveditha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20B.Tech%20CSE%20@%20IIIT%20Vadodara&descAlignY=58&descSize=18"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00C896&center=true&vCenter=true&width=650&lines=Building+Production-Grade+AI+Systems+🚀;RAG+%26+Agentic+AI+Engineer+🧠;350%2B+DSA+Problems+Solved+💻;Open+Source+Contributor+🌍;Always+Shipping+Something+New+✨"/>
 <br/>
 <a href="https://www.linkedin.com/in/niveditha-binu-ab8642344/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -13,11 +13,10 @@
  
 # 👩‍💻 About Me
  
-I'm a **Computer Science undergrad at IIIT Vadodara (2023–2027)** building at the intersection of **AI/ML systems and full-stack engineering**. I've shipped a RAG-based document intelligence platform, contributed to open source through Social Summer of Code, and solved 350+ problems across LeetCode, CodeChef, Codeforces, and GeeksforGeeks.
+I'm a **Computer Science Student at IIIT Vadodara** passionate about **Machine-Learning, Data Science and Full-Stack Development**.
  
-- 🎯 Currently deepening my full-stack skills: **React → Flask → PostgreSQL** integration
-- 🔬 Focused on **Retrieval-Augmented Generation, Agentic AI, and applied ML**
-- 🏆 **Hack IIITV 2025 Winner** — FY Special Web/App Development category
+- 🎯 Currently deepening my full-stack skills
+- 🔬 Focused on **Retrieval-Augmented Generation (RAG), Agentic AI, and applied ML**
 - 🌱 **SheFi Season 17 Scholar** — Web3, DeFi, and blockchain fundamentals
 ---
  
