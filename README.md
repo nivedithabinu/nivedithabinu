@@ -4,7 +4,6 @@
 <br/>
 <a href="https://www.linkedin.com/in/niveditha-binu-ab8642344/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nivedithabinu2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,100:302B63&height=6&section=header"/>
@@ -28,7 +27,7 @@ I'm a **Computer Science undergrad at IIIT Vadodara** building at the intersecti
 
 ### 🩺 [MedAgent-X](#)
 
-Enterprise-grade **RAG platform** for clinical research — ingests medical documents and answers grounded, source-cited queries using retrieval + generation instead of hallucinated LLM output.
+Enterprise-grade **RAG platform** for clinical research - understands medical documents and answers source-cited queries, generates knowledge graphs and presentation deckds using retrieval + generation.
 
 `FastAPI` `Gemini` `RAG` `Python`
 
@@ -48,7 +47,7 @@ FPGA-based surveillance system built from scratch in **Verilog HDL** — impleme
 
 ### 🎂 [AgeCraft](#)
 
-Interactive age-analytics dashboard with a terminal-inspired UI — multi-section stats, RPG-style theming, and a custom dark aesthetic built in vanilla JS.
+Interactive age-analytics dashboard with a terminal-inspired UI - multi-section stats, style theming, and a custom dark aesthetic built in vanilla JS.
 
 `HTML` `CSS` `JavaScript`
 
@@ -57,15 +56,13 @@ Interactive age-analytics dashboard with a terminal-inspired UI — multi-sectio
 
 ### 💼 [Citi Technology Job Simulation](#)
 
-Forage-based enterprise simulation — modeled credit risk with **XGBoost**, built a Java/Gradle backend with queue-based market data ingestion, and rendered a real-time JavaFX chart.
+Forage-based enterprise simulation - modeled credit risk with **XGBoost**, built a Java/Gradle backend with queue-based market data ingestion, and rendered a real-time JavaFX chart.
 
 `Java` `XGBoost` `Gradle`
 
 </td>
 </tr>
 </table>
-
-> Swap the `#` links for each project's live demo / repo URL when ready.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,100:302B63&height=6&section=header"/>
 
@@ -122,25 +119,9 @@ Forage-based enterprise simulation — modeled credit risk with **XGBoost**, bui
 # 📈 GitHub Analytics
 
 <div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nivedithabinu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nivedithabinu&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA"/>
-
-<br/>
-
-<img src="https://github-readme-trophy.vercel.app/?username=nivedithabinu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nivedithabinu&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/nivedithabinu/nivedithabinu/output/github-contribution-grid-snake.svg"/>
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,100:302B63&height=6&section=header"/>
 
 # 🤝 Connect With Me
 
