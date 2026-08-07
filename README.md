@@ -10,7 +10,7 @@
 
 # 👩‍💻 About Me
 
-I'm a **Computer Science undergrad at IIIT Vadodara** building at the intersection of **Machine Learning, Data Science, and Agentic AI systems**.
+I'm a **B.Tech Computer Science Student at IIIT Vadodara** building at the intersection of **Machine Learning, Data Science, and Agentic AI systems**.
 
 - 🧠 Focused on **Retrieval-Augmented Generation (RAG)**, applied ML, and agent-based architectures
 - 📊 350+ problems solved across LeetCode, CodeChef, Codeforces & GeeksforGeeks
