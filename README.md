@@ -81,6 +81,9 @@ Forage-based enterprise simulation - modeled credit risk with **XGBoost**, built
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=beautifulsoup&logoColor=white"/>
 <img src="https://skillicons.dev/icons?i=jupyter&theme=dark"/>
 </p>
 
