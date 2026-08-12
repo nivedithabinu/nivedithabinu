@@ -31,7 +31,7 @@ I'm a **B.Tech Computer Science Student at IIIT Vadodara** building at the inter
 <tr>
 <td width="50%">
 
-### 🩺 [MedAgent-X](#)
+### 🩺 [MedAgent-X](https://github.com/nivedithabinu/MedAgent-X)
 
 Enterprise-grade **RAG platform** for clinical research - understands medical documents and answers source-cited queries, generates knowledge graphs and presentation deckds using retrieval + generation.
 
@@ -40,7 +40,7 @@ Enterprise-grade **RAG platform** for clinical research - understands medical do
 </td>
 <td width="50%">
 
-### 🏠 [Smart Home Surveillance Controller](#)
+### 🏠 [Smart Home Surveillance Controller](https://github.com/nivedithabinu/Smart-Home-Surveillance-Controller)
 
 FPGA-based surveillance system built from scratch in **Verilog HDL** — implements a finite state machine driving LEDs, buzzer, and a seven-segment display for real-time alerts.
 
@@ -51,7 +51,7 @@ FPGA-based surveillance system built from scratch in **Verilog HDL** — impleme
 <tr>
 <td width="50%">
 
-### 🎂 [AgeCraft](#)
+### 🎂 [AgeCraft](https://github.com/nivedithabinu/AgeCraft)
 
 Interactive age-analytics dashboard with a terminal-inspired UI - multi-section stats, style theming, and a custom dark aesthetic built in vanilla JS.
 
@@ -60,7 +60,7 @@ Interactive age-analytics dashboard with a terminal-inspired UI - multi-section 
 </td>
 <td width="50%">
 
-### 💼 [Citi Technology Job Simulation](#)
+### 💼 [Citi Technology Job Simulation](https://github.com/nivedithabinu/Citi-Technology-Software-Development)
 
 Forage-based enterprise simulation - modeled credit risk with **XGBoost**, built a Java/Gradle backend with queue-based market data ingestion, and rendered a real-time JavaFX chart.
 
