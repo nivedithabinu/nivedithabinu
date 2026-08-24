@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=240&section=header&text=Hi%20👋,%20I'm%20Niveditha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%7C%20Full-Stack%20Development%20%7C%20Data%20Science%20%7C%20B.Tech%20CSE%20@%20IIIT%20Vadodara&descAlignY=58&descSize=18"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Training+Models,+Not+Just+Code;RAG+%26+Agentic+AI+Systems;350%2B+DSA+Problems+Solved;Turning+Data+Into+Decisions;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Training+Models,+Not+Just+Code;RAG+%26+Agentic+AI+Systems;400%2B+DSA+Problems+Solved;Turning+Data+Into+Decisions;Open+Source+Contributor"/>
 <br>
 
 <a href="https://www.linkedin.com/in/niveditha-binu-ab8642344/">
@@ -19,8 +19,7 @@
 I'm a **B.Tech Computer Science Student at IIIT Vadodara** building at the intersection of **Machine Learning, Data Science, and Agentic AI systems**.
 
 - 🧠 Focused on **Retrieval-Augmented Generation (RAG)**, applied ML, and agent-based architectures
-- 📊 350+ problems solved across LeetCode, CodeChef, Codeforces & GeeksforGeeks
-- 🌱 **SheFi Season 17 Scholar** — exploring Web3, DeFi, and blockchain fundamentals
+- 📊 400+ problems solved across LeetCode, CodeChef, Codeforces & GeeksforGeeks
 - 🎯 Currently deepening my full-stack skills to ship ML products end-to-end, not just notebooks
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,100:24243E&height=6&section=header"/>
@@ -112,7 +111,7 @@ Forage-based enterprise simulation - modeled credit risk with **XGBoost**, built
 |---|---|
 | 🥇 | **Hack IIITV 2025 Winner** - FY Special Web/App Development category |
 | 🌍 | **Social Summer of Code Season 5** - 4 PRs merged, 144 points, Rank 166 |
-| 💻 | **350+ DSA problems solved** across LeetCode, CodeChef, Codeforces & GeeksforGeeks |
+| 💻 | **400+ DSA problems solved** across LeetCode, CodeChef, Codeforces & GeeksforGeeks |
 | ✨ | **LeetCode 50-Day Badge** - earned in both 2025 and 2026 |
 | 🎓 | **SheFi Season 17 Scholar** - DeFi, blockchain & Web3 fundamentals |
 
