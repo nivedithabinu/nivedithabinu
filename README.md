@@ -32,7 +32,7 @@ I'm a **B.Tech Computer Science Student at IIIT Vadodara** building at the inter
 
 ### 🩺 [MedAgent-X](https://github.com/nivedithabinu/MedAgent-X)
 
-Enterprise-grade **RAG platform** for clinical research - understands medical documents and answers source-cited queries, generates knowledge graphs and presentation deckds using retrieval + generation.
+Enterprise-grade **RAG platform** for clinical research - understands medical documents and answers source-cited queries, generates knowledge graphs and presentation decks using retrieval + generation.
 
 `FastAPI` `Gemini` `RAG` `Python`
 
