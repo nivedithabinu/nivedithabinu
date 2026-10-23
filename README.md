@@ -19,7 +19,7 @@
 I'm a **B.Tech Computer Science Student at IIIT Vadodara** building at the intersection of **Machine Learning, Data Science, and Agentic AI systems**.
 
 - 🧠 Focused on **Retrieval-Augmented Generation (RAG)**, applied ML, and agent-based architectures
-- 📊 400+ problems solved across LeetCode, CodeChef, Codeforces & GeeksforGeeks
+- 📊 500+ problems solved across LeetCode, CodeChef, Codeforces & GeeksforGeeks
 - 🎯 Currently deepening my full-stack skills to ship ML products end-to-end, not just notebooks
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,100:24243E&height=6&section=header"/>
@@ -111,8 +111,9 @@ Forage-based enterprise simulation - modeled credit risk with **XGBoost**, built
 |---|---|
 | 🥇 | **Hack IIITV 2025 Winner** - FY Special Web/App Development category |
 | 🌍 | **Social Summer of Code Season 5** - 4 PRs merged, 144 points, Rank 166 |
-| 💻 | **400+ DSA problems solved** across LeetCode, CodeChef, Codeforces & GeeksforGeeks |
+| 💻 | **500+ DSA problems solved** across LeetCode, CodeChef, Codeforces & GeeksforGeeks |
 | ✨ | **LeetCode 50-Day Badge** - earned in both 2025 and 2026 |
+| ✨ | **LeetCode 100-Day Badge** - earned in October 2026 |
 | 🎓 | **SheFi Season 17 Scholar** - DeFi, blockchain & Web3 fundamentals |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,100:302B63&height=6&section=header"/>
