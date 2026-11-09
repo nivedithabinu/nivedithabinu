@@ -97,7 +97,7 @@ Forage-based enterprise simulation - modeled credit risk with **XGBoost**, built
 **Frameworks & Backend**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,tailwind,bootstrap&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,tailwind,bootstrap,typescript&theme=dark"/>
 </p>
 
 **Tools & Platforms**
